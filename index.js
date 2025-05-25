@@ -1,7 +1,7 @@
-
+alert("Saim Ahmed: This website doesn't have any funtionaliy, it is just a simple clone of the main X.com website's design")
 function responses() {
 
-// For like Btn to work
+// For like Btn to work 
 
 function likeEffect() {
 
